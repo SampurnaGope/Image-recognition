@@ -1,0 +1,44 @@
+body {
+    background-color: darkgray;
+
+}
+
+.heading {
+    width: 80%;
+    font-size: 25;
+    font-family: cursive;
+    font-weight: 700;
+
+
+}
+
+
+.name_of_object {
+
+    font-size: 29;
+
+
+}
+
+label {
+    font-size: 29;
+    font-family: serif;
+}
+
+.btn-success{
+    font-size: 30px;
+    
+
+}
+
+.btn-success:hover{
+    background-image: linear-gradient(to top right,darkblue,blue,lightblue);
+}
+
+.btn-info{
+    font-size: 30px;
+}
+
+.btn-info:hover{
+    background-image: linear-gradient(to top left,darkblue,blue,lightblue);
+}
